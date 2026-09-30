@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+clinicenv/
+
+# Local Vector Database (ChromaDB files)
+chroma_db/
+
+# Python Cache & Visual Studio Code Settings
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# Document & Word Files
+*.docx
+*.doc
+
+*.csv
+
+# Audio Assets
+*.mp3
+*.wav
+
+# OS specific files
+.DS_Store
+Thumbs.db
+.env

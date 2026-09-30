@@ -1,0 +1,10 @@
+chromadb
+pypdf
+ollama
+SpeechRecognition
+gTTS
+pygame
+python-docx
+groq
+python-dotenv
+pyaudio
